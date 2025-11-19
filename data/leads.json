@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "company": "Acme Corporation",
+    "email": "john.doe@acme.com",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "company": "Tech Solutions Inc",
+    "email": "jane.smith@techsolutions.com",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "company": "Digital Innovations",
+    "email": "bob.johnson@digitalinnovations.com",
+    "status": "Inactive"
+  },
+  {
+    "id": 4,
+    "name": "Alice Williams",
+    "company": "Cloud Services Ltd",
+    "email": "alice.williams@cloudservices.com",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Brown",
+    "company": "Startup Ventures",
+    "email": "charlie.brown@startupventures.com",
+    "status": "Inactive"
+  },
+  {
+    "id": 6,
+    "name": "asd",
+    "company": "asd",
+    "email": "asd@gmail.com",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "name": "Updated Test User",
+    "company": "Updated Company",
+    "email": "updated@example.com",
+    "status": "Inactive"
+  }
+]
